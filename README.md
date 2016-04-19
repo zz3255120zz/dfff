@@ -1,4 +1,4 @@
-# dfff
+# 好奇心
 class hello//定义一个类名
 {
 	public static void main(String[] args)//定义一个主函数 
